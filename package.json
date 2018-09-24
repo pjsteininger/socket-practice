@@ -1,0 +1,24 @@
+{
+  "name": "socket-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socket-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjsteininger/socket-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjsteininger/socket-practice/issues"
+  },
+  "homepage": "https://github.com/pjsteininger/socket-practice#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
